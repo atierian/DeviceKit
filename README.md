@@ -2,6 +2,7 @@
 
 ## Usage
 `let device = Device.current`
+
 `let userFriendlyName = Device.current.userFriendlyName`
 
 Model mappings sourced from:
